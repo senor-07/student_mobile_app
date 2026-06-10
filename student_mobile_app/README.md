@@ -223,6 +223,3 @@ Capture these for your Word logbook:
 
 ---
 
-## License
-
-Educational project for Mobile Application Development coursework.
